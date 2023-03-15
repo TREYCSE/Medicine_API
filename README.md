@@ -1,6 +1,6 @@
 # Medicine_API
 
-Imagine the machine running tests..taking in all your data...evenutally spitting out a sum of it inluding an informal but pretty accurate "diagnosis". Well this exists. The technician directs the machine but it does the interpretation itself. This is the advanced world of medical technology. I aim to gather a "master" database of focused medical research data to build my own public API, that will be transformed into a machine learning system that will accurately consider all of a user's information before providing them a slew of userfriendly health data about themselves.
+Imagine the machine running tests taking in all your data...eventually spitting out a sum of it inluding an informal but pretty accurate "diagnosis". Well, this exists. The technician directs the machine but it does the interpretation itself. This is the advanced world of medical technology. I aim to gather a "master" database of focused medical research data to build my own public API, that will be transformed into a machine learning system that will accurately consider all of a user's information before providing them a slew of userfriendly health data about themselves.
 
 ## Combined Medical Research Database Examples
   ![image](https://)
