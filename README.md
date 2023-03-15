@@ -10,6 +10,7 @@ Imagine the machine running tests taking in all your data...eventually spitting 
 ## Features - QUERYS for Developers
 Users will be asked extensive questions aiming to gather their entire health history including:
 >1. 
+>2. 
 
 ## Technologies - How will this work? Backend API building into Machine Learning
 >
@@ -20,6 +21,9 @@ Users will be asked extensive questions aiming to gather their entire health his
 
 Requirements for the software and other tools to build, test and push (parts of project that are not part of main wireframe)
 1. 
+2. 
+3. 
+4. 
 
 Ways components can be utilized
 > 1. 
@@ -30,40 +34,37 @@ Ways components can be utilized
 
 ### CODING INCORPORATED IN BUILDING THE API 
 File Tree:
-    /lib
-        /db
-            /seed.js
-            /connection.js
+            /lib
+                /db
+                    /seed.js
+                    /connection.js
 
-        /controllers
-            /1
-            /2
-            /3
-        /models
-            /1
-            /2
-            /3
-        /routes
-            /index.js
-            /1
-        index.js
+                /controllers
+                    /1
+                    /2
+                    /3
+                /models
+                    /1
+                    /2
+                    /3
+                /routes
+                    /index.js
+                    /1
+                index.js
 
 
-### CODE COMMENTS - What is each file responsible for and linked to?
-
-### /db
+## CODE COMMENTS - What is each file responsible for and linked to?
+### /db - the Database
 seed.js
 connection.js
+
+
 
 
 ### CONTRIBUTION GUIDELINES
 Follow these Links:
 > 1. Main repository: ([https://git.generalassemb.ly/dc-wdi-node-express/api-project](https://github.com/TREYCSE/Medicine_API))
 > 2. Issue Tracker: ([https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=0](https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=1699520055))
-
-#### Built With
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose the license
 
 #### Versioning
 We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
