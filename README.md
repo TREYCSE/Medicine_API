@@ -25,7 +25,6 @@ Requirements for the software and other tools to build, test and push (parts of 
 3. 
 4. 
 
-
 ## CODING INCORPORATED IN BUILDING THE API 
 #### File Tree:
 
@@ -53,15 +52,13 @@ Requirements for the software and other tools to build, test and push (parts of 
 2) connection.js - connecting to Mongoose server
 
 
-
-
-### CONTRIBUTION GUIDELINES
+###### CONTRIBUTION GUIDELINES
 Follow these Links:
 > 1. Main repository: ([https://git.generalassemb.ly/dc-wdi-node-express/api-project](https://github.com/TREYCSE/Medicine_API))
 > 2. Issue Tracker: ([https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=0](https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=1699520055))
 
-#### Versioning
+###### Versioning
 We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
-#### Authors
+###### Authors
   - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
