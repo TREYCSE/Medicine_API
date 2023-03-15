@@ -47,8 +47,8 @@ Requirements for the software and other tools to build, test and push (parts of 
                 index.js
 
 
-## CODE COMMENTS - What is each file responsible for and linked to?
-### /db - the Database
+### CODE COMMENTS - What is each file responsible for and linked to?
+#### /db - the Database
 1) seed.js - Seeding the data with Mongoose
 2) connection.js - connecting to Mongoose server
 
