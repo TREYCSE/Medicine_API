@@ -25,15 +25,9 @@ Requirements for the software and other tools to build, test and push (parts of 
 3. 
 4. 
 
-Ways components can be utilized
-> 1. 
-> 2. 
-> 3. 
-> 4. 
-
 
 ## CODING INCORPORATED IN BUILDING THE API 
-File Tree:
+#### File Tree:
 
             /lib
                 /db
@@ -48,8 +42,8 @@ File Tree:
                     /2
                     /3
                 /routes
-                    /index.js
-                    /1
+                    /1 index.js
+                    /2
                 index.js
 
 
