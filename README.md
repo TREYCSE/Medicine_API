@@ -7,7 +7,7 @@ Imagine the machine running tests taking in all your data...eventually spitting 
   ![image](https://)
   ![image](https://)
 
-## Features - QUERYS for Developers
+## Features - QUERYS for Developers (chart in API documentation)
 Users will be asked extensive questions aiming to gather their entire health history including:
 >1. 
 >2. 
@@ -38,7 +38,6 @@ File Tree:
                 /db
                     /seed.js
                     /connection.js
-
                 /controllers
                     /1
                     /2
@@ -55,8 +54,8 @@ File Tree:
 
 ## CODE COMMENTS - What is each file responsible for and linked to?
 ### /db - the Database
-seed.js
-connection.js
+1) seed.js - Seeding the data with Mongoose
+2) connection.js - connecting to Mongoose server
 
 
 
