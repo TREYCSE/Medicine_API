@@ -32,12 +32,13 @@ Ways components can be utilized
 > 4. 
 
 
-### CODING INCORPORATED IN BUILDING THE API 
+## CODING INCORPORATED IN BUILDING THE API 
 File Tree:
+
             /lib
                 /db
-                    /seed.js
-                    /connection.js
+                    /1 seed.js
+                    /2 connection.js
                 /controllers
                     /1
                     /2
