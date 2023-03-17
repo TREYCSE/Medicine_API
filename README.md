@@ -12,13 +12,13 @@ Requirements for the software and other tools to build, test and push (parts of 
 3. 
 4. 
 
-## CODING INCORPORATED IN BUILDING THE API 
+## CODING W/IN BUILDING THE API //with comments
 #### File Tree:
 
             /lib
-                /db
-                    /1 seed.js
-                    /2 connection.js
+                /db - the Databse
+                    /1 seed.js - seeding the data to the MongoDB database
+                    /2 connection.js - connecting to the Mongoose Server
                 /controllers
                     /1 model1.js
                     /2 model2.js
@@ -33,12 +33,6 @@ Requirements for the software and other tools to build, test and push (parts of 
                     /2 model2.js
                     /3 model3.js
                 index.js
-
-
-### Code Comments - What is each file responsible for and linked to?
-#### /db - the Database
-1) seed.js - Seeding the data with Mongoose
-2) connection.js - connecting to Mongoose server
 
 
 ###### CONTRIBUTION GUIDELINES
