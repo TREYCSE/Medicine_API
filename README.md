@@ -48,19 +48,22 @@ HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>
                 /db - the Databse
                     /1 seed.js - seeding the data to the MongoDB database
                     /2 connection.js - connecting to the Mongoose Server
+                    /4 budget.json
+                    /5 state.json
+                    /6 treasury.json
                 /controllers
-                    /1 model1.js
-                    /2 model2.js
-                    /3 model3.js
-                /models
-                    /1 schema1.js
-                    /2 schema2.js
-                    /3 schema3.js
+                    /1 budget.js
+                    /2 state.js
+                    /3 treasury.js
+                /models - schemas
+                    /1 budget.js
+                    /2 state.js
+                    /3 treasury.js
                 /routes
                     /1 index.js
-                    /2 model1.js
-                    /2 model2.js
-                    /3 model3.js
+                    /1 budget.js
+                    /2 state.js
+                    /3 treasury.js
                 index.js
 
 
