@@ -1,15 +1,10 @@
 # REST_API DOCUMENTATION
 
-#### PROJECT SUMMARY
-The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data. 
-DATABASE: USASPENDING.GOV
-					
-##### TECHNOLOGIES USED	: MongoDB, Node.js, and Expres.js w/axios to fetch & Postman for validation of URLS	
+#### THE U.S. DATABASE FOR US
+The database brings together information on important Departments that operate America such as laws, and budgets according to the respective departments. I aim to bring in more data and sort it to be more fluid and informational for the average reader.
 
-### FEATURES						
+### MAKING REQUESTS
 FORMAT:	JSON "Content-Type:application/json"
-
-### MAKING REQUESTS						
 To make HTTP REQUESTS: GET /api/v2/agency/<TOPTIER_AGENCY_CODE>/Endpoint
 The agency codes are: 
 1. 015 - Department of Treasury Budget GET https://api.usaspending.gov/api/v2/agency/020/budget_function/
