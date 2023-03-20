@@ -1,16 +1,44 @@
 # REST_API DOCUMENTATION
 
-## FEATURES
-### QUERYS for Developers
-Users will be asked extensive questions aiming to gather their entire health history including:
->1. 
->2. 
+1. JSON REST_API DOCUMENTATION PLAN						
+A. PROJECT SUMMARY: The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data.                                                						
+B. GETTING STARTED						
+1. TECHNOLOGIES						
+DATABASE: USASPENDING.GOV	MongoDB, Node.js, and Expres.js	w/axios to fetch & Postman - for validation of URLS	Swagger - API tester	Authentication of API - HTTP or OAuth	Heroku - DEPLOYING	
+2. API FEATURES						
+"ERROR STATUS CODES:
+"	200 if the request is successful		500 for server-side errors		FORMAT:	JSON
+	400 if the request is malformed					Content-Type:application/json
+3. MAKING REQUESTS						
+HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>	AUTHENTICATION/API KEYS:	OAuth 2.0 Access Token		
+EXAMPLES OF CODE:	"BODY
+                                    {
+                                      ""options"": [
+                                        {
+                                          ""id"": ""310M200US42660"",
+                                          ""name"": ""Seattle Metro Area (WA)"",
+                                          ""type"": ""regions.msa""
+                                        },
+                                        {
+                                          ""id"": ""1600000US5363000"",
+                                          ""name"": ""Seattle, WA"",
+                                          ""type"": ""regions.place""
+                                        }
+                                      ]
+                                    }"	"var request = require('request');
 
-Requirements for the software and other tools to build, test and push (parts of project that are not part of main wireframe)
-1. 
-2. 
-3. 
-4. 
+                                    request({
+                                      method: 'GET',
+                                      url: 'https://private-anon-916318c26a-odn.apiary-mock.com/suggest/v1/type',
+                                      headers: {
+                                        'X-App-Token': 'cQovpGcdUT1CSzgYk0KPYdAI0'
+                                      }}, function (error, response, body) {
+                                      console.log('Status:', response.statusCode);
+                                      console.log('Headers:', JSON.stringify(response.headers));
+                                      console.log('Response:', body);
+                                    });"	
+
+
 
 ## CODING W/IN BUILDING THE API //with comments
 #### File Tree:
