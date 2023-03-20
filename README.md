@@ -1,17 +1,18 @@
 # REST_API DOCUMENTATION
 
-1. JSON REST_API DOCUMENTATION PLAN						
-A. PROJECT SUMMARY: The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data.                                                						
-B. GETTING STARTED						
-1. TECHNOLOGIES						
-DATABASE: USASPENDING.GOV	MongoDB, Node.js, and Expres.js	w/axios to fetch & Postman - for validation of URLS	Swagger - API tester	Authentication of API - HTTP or OAuth	Heroku - DEPLOYING	
-2. API FEATURES						
-"ERROR STATUS CODES:
-"	200 if the request is successful		500 for server-side errors		FORMAT:	JSON
-	400 if the request is malformed					Content-Type:application/json
-3. MAKING REQUESTS						
-HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>	AUTHENTICATION/API KEYS:	OAuth 2.0 Access Token		
-EXAMPLES OF CODE:	"BODY
+DATABASE: USASPENDING.GOV
+JSON REST_API DOCUMENTATION PLAN	
+
+#### PROJECT SUMMARY: The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data.   
+
+#### GETTING STARTED						
+##### TECHNOLOGIES						
+MongoDB, Node.js, and Expres.js	w/axios to fetch & Postman - for validation of URLS	Swagger - API tester	Authentication of API - HTTP or OAuth	Heroku - DEPLOYING	
+### API FEATURES						
+FORMAT:	JSON "Content-Type:application/json"
+### MAKING REQUESTS						
+HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>
+### EXAMPLES OF CODE:
                                     {
                                       ""options"": [
                                         {
