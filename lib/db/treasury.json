@@ -1,0 +1,664 @@
+[
+    {
+        "code": "012-3505",
+        "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+        "children": [
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2023/2023-3505-000",
+                "obligated_amount": 55600089009.62,
+                "gross_outlay_amount": 39837735118.48
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2022/2022-3505-000",
+                "obligated_amount": 530200169.73,
+                "gross_outlay_amount": 13999754359.69
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2023-3505-000",
+                "obligated_amount": 369562702.84,
+                "gross_outlay_amount": 154214275.85
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2023/2024-3505-000",
+                "obligated_amount": 199024811.98,
+                "gross_outlay_amount": 28072037.67
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2021-3505-000",
+                "obligated_amount": 110702138.23,
+                "gross_outlay_amount": 51035474.09
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2022/2023-3505-000",
+                "obligated_amount": 102360237.16,
+                "gross_outlay_amount": 341823628.61
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2026-3505-000",
+                "obligated_amount": 5000000.0,
+                "gross_outlay_amount": 101743.87
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2022-3505-000",
+                "obligated_amount": 1063593.37,
+                "gross_outlay_amount": 62530578.1
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2020/2020-3505-000",
+                "obligated_amount": 548375.46,
+                "gross_outlay_amount": 1008084.7
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2020/2021-3505-000",
+                "obligated_amount": 284123.63,
+                "gross_outlay_amount": 6783796.14
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2027-3505-000",
+                "obligated_amount": 120607.0,
+                "gross_outlay_amount": 10289987.91
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-X-3505-000",
+                "obligated_amount": 102931.62,
+                "gross_outlay_amount": 87745.82
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2017/2018-3505-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": -11184.71
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2018/2018-3505-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 6183442.52
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2019/2019-3505-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 1509068.27
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2019/2021-3505-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 739328.93
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2018/2019-3505-000",
+                "obligated_amount": -5970.96,
+                "gross_outlay_amount": -12305.92
+            },
+            {
+                "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+                "code": "012-2019/2020-3505-000",
+                "obligated_amount": -110471.38,
+                "gross_outlay_amount": -208858.47
+            }
+        ],
+        "obligated_amount": 56918942258.3,
+        "gross_outlay_amount": 54501636321.55
+    },
+    {
+        "code": "012-4336",
+        "name": "Commodity Credit Corporation Fund, Agriculture",
+        "children": [
+            {
+                "name": "Commodity Credit Corporation Fund, Agriculture",
+                "code": "012-X-4336-000",
+                "obligated_amount": 23531702069.93,
+                "gross_outlay_amount": 8733412840.81
+            },
+            {
+                "name": "Commodity Credit Corporation Fund, Agriculture",
+                "code": "012-2017/2018-4336-000",
+                "obligated_amount": 1281.0,
+                "gross_outlay_amount": 0.0
+            },
+            {
+                "name": "Commodity Credit Corporation Fund, Agriculture",
+                "code": "012-2019/2020-4336-000",
+                "obligated_amount": 261.0,
+                "gross_outlay_amount": 227.0
+            },
+            {
+                "name": "Commodity Credit Corporation Fund, Agriculture",
+                "code": "072-012-X-4336-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 143621373.46
+            }
+        ],
+        "obligated_amount": 23531703611.93,
+        "gross_outlay_amount": 8877034441.27
+    },
+    {
+        "code": "012-3539",
+        "name": "Child Nutrition Programs, Food and Nutrition Service",
+        "children": [
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2023/2024-3539-000",
+                "obligated_amount": 13999553165.98,
+                "gross_outlay_amount": 5071360565.96
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2022/2023-3539-000",
+                "obligated_amount": 2147056922.16,
+                "gross_outlay_amount": 5366892138.48
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service, Agriculture",
+                "code": "012-X-3539-000",
+                "obligated_amount": 244115907.85,
+                "gross_outlay_amount": 68748648.07
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2021-3539-000",
+                "obligated_amount": 4400342.03,
+                "gross_outlay_amount": 3713465.82
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2021/2022-3539-000",
+                "obligated_amount": 2664617.07,
+                "gross_outlay_amount": 401361997.55
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2020/2021-3539-000",
+                "obligated_amount": 218120.15,
+                "gross_outlay_amount": 7512222.48
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2017/2018-3539-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 1646776.78
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2018/2019-3539-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 3500400.95
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service",
+                "code": "012-2019/2020-3539-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 1151741.08
+            },
+            {
+                "name": "Child Nutrition Programs, Food and Nutrition Service, Agriculture",
+                "code": "012-2022/2022-3539-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 144570.0
+            }
+        ],
+        "obligated_amount": 16398009075.24,
+        "gross_outlay_amount": 10926032527.17
+    },
+    {
+        "code": "012-4085",
+        "name": "Federal Crop Insurance Corporation Fund, Risk Management Agency, Agriculture",
+        "children": [
+            {
+                "name": "Federal Crop Insurance Corporation Fund, Risk Management Agency, Agriculture",
+                "code": "012-X-4085-000",
+                "obligated_amount": 10305081155.14,
+                "gross_outlay_amount": 14071730015.95
+            }
+        ],
+        "obligated_amount": 10305081155.14,
+        "gross_outlay_amount": 14071730015.95
+    },
+    {
+        "code": "012-3510",
+        "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+        "children": [
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2023/2024-3510-000",
+                "obligated_amount": 2942519516.04,
+                "gross_outlay_amount": 1087417288.27
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2022/2023-3510-000",
+                "obligated_amount": 769098248.55,
+                "gross_outlay_amount": 964402108.55
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), Food and Nutrition Service, Agriculture",
+                "code": "012-X-3510-000",
+                "obligated_amount": 4412558.0,
+                "gross_outlay_amount": 8508739.26
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2021/2022-3510-000",
+                "obligated_amount": 3007943.9,
+                "gross_outlay_amount": 90329326.67
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), Food and Nutrition Service, Agriculture",
+                "code": "012-2021/2024-3510-000",
+                "obligated_amount": 1234126.81,
+                "gross_outlay_amount": 1873286.76
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2019/2020-3510-000",
+                "obligated_amount": 581.13,
+                "gross_outlay_amount": 729781.97
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2020/2021-3510-000",
+                "obligated_amount": 112.98,
+                "gross_outlay_amount": 12238847.39
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2017/2018-3510-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 836234.59
+            },
+            {
+                "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+                "code": "012-2018/2019-3510-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 3927489.08
+            }
+        ],
+        "obligated_amount": 3720273087.41,
+        "gross_outlay_amount": 2170263102.54
+    },
+    {
+        "code": "012-0115",
+        "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+        "children": [
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-X-0115-000",
+                "obligated_amount": 1469033153.47,
+                "gross_outlay_amount": 374640614.04
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2022/2024-0115-000",
+                "obligated_amount": 517571214.22,
+                "gross_outlay_amount": 412881793.13
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2019/2021-0115-000",
+                "obligated_amount": 192724830.34,
+                "gross_outlay_amount": 185615053.29
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2018/2020-0115-000",
+                "obligated_amount": 187675112.6,
+                "gross_outlay_amount": 26839562.4
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2020/2022-0115-000",
+                "obligated_amount": 85211766.81,
+                "gross_outlay_amount": 83249916.71
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2023/2023-0115-000",
+                "obligated_amount": 21982588.4,
+                "gross_outlay_amount": 17992628.33
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2022/2022-0115-000",
+                "obligated_amount": 6178084.94,
+                "gross_outlay_amount": 17368959.06
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2021/2024-0115-000",
+                "obligated_amount": 4702436.08,
+                "gross_outlay_amount": 2943621.3
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2020/2020-0115-000",
+                "obligated_amount": 3028840.43,
+                "gross_outlay_amount": 2042257.38
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2021/2021-0115-000",
+                "obligated_amount": 1423725.28,
+                "gross_outlay_amount": 1846798.86
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2022/2031-0115-000",
+                "obligated_amount": 181585.12,
+                "gross_outlay_amount": 387861.86
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2019/2019-0115-000",
+                "obligated_amount": 79234.85,
+                "gross_outlay_amount": 1102030.92
+            },
+            {
+                "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+                "code": "012-2018/2018-0115-000",
+                "obligated_amount": 32994.32,
+                "gross_outlay_amount": 0.58
+            }
+        ],
+        "obligated_amount": 2489825566.86,
+        "gross_outlay_amount": 1126911097.86
+    },
+    {
+        "code": "012-2278",
+        "name": "Food for Peace Title II Grants, Foreign Agricultural Service, Agriculture",
+        "children": [
+            {
+                "name": "Food for Peace Title II Grants, Foreign Agricultural Service, Agriculture",
+                "code": "012-X-2278-000",
+                "obligated_amount": 2003313671.44,
+                "gross_outlay_amount": 681813193.82
+            },
+            {
+                "name": "Food for Peace Title II Grants, Foreign Agricultural Service, Agriculture",
+                "code": "072-012-X-2278-000",
+                "obligated_amount": 320733316.6,
+                "gross_outlay_amount": 523629864.82
+            },
+            {
+                "name": "Food for Peace Title II Grants, Foreign Agricultural Service, Agriculture",
+                "code": "012-2021/2022-2278-000",
+                "obligated_amount": 28675039.46,
+                "gross_outlay_amount": 15283846.9
+            },
+            {
+                "name": "Food for Peace Title II Grants, Foreign Agricultural Service, Agriculture",
+                "code": "072-012-2021/2022-2278-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 4232683.58
+            }
+        ],
+        "obligated_amount": 2352722027.5,
+        "gross_outlay_amount": 1224959589.12
+    },
+    {
+        "code": "012-1115",
+        "name": "Wildland Fire Management, Forest Service, Agriculture",
+        "children": [
+            {
+                "name": "Wildland Fire Management, Forest Service, Agriculture",
+                "code": "012-X-1115-000",
+                "obligated_amount": 1094117432.83,
+                "gross_outlay_amount": 1332922878.72
+            },
+            {
+                "name": "Wildland Fire Management, Forest Service, Agriculture",
+                "code": "012-2017/2020-1115-000",
+                "obligated_amount": 22950.32,
+                "gross_outlay_amount": 2608102.63
+            },
+            {
+                "name": "Wildland Fire Management, Forest Service, Agriculture",
+                "code": "012-2019/2022-1115-000",
+                "obligated_amount": 17097.5,
+                "gross_outlay_amount": 507919.25
+            },
+            {
+                "name": "Wildland Fire Management, Forest Service, Agriculture",
+                "code": "012-2018/2021-1115-000",
+                "obligated_amount": 230.16,
+                "gross_outlay_amount": 92638.42
+            },
+            {
+                "name": "Wildland Fire Management, Forest Service, Agriculture",
+                "code": "012-2020/2021-1115-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 268974.7
+            }
+        ],
+        "obligated_amount": 1094157710.81,
+        "gross_outlay_amount": 1336400513.72
+    },
+    {
+        "code": "012-1106",
+        "name": "National Forest System, Forest Service, Agriculture",
+        "children": [
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2023/2026-1106-000",
+                "obligated_amount": 527085471.97,
+                "gross_outlay_amount": 442197834.36
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-X-1106-000",
+                "obligated_amount": 99462909.77,
+                "gross_outlay_amount": 108406714.82
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2022/2025-1106-000",
+                "obligated_amount": 18247082.56,
+                "gross_outlay_amount": 144595696.18
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2021/2024-1106-000",
+                "obligated_amount": 1842503.18,
+                "gross_outlay_amount": 33355214.41
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2020/2023-1106-000",
+                "obligated_amount": 1262021.97,
+                "gross_outlay_amount": 21666644.76
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2019/2022-1106-000",
+                "obligated_amount": 131668.97,
+                "gross_outlay_amount": 9302814.79
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2017/2020-1106-000",
+                "obligated_amount": 13569.18,
+                "gross_outlay_amount": 977090.15
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2018/2021-1106-000",
+                "obligated_amount": 3570.0,
+                "gross_outlay_amount": 3917819.33
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "014-012-X-1106-011",
+                "obligated_amount": 1519.49,
+                "gross_outlay_amount": 1519.49
+            },
+            {
+                "name": "National Forest System, Forest Service, Agriculture",
+                "code": "012-2020/2021-1106-000",
+                "obligated_amount": 9.44,
+                "gross_outlay_amount": 3143931.22
+            }
+        ],
+        "obligated_amount": 648050326.53,
+        "gross_outlay_amount": 767565279.51
+    },
+    {
+        "code": "012-1004",
+        "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+        "children": [
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-X-1004-000",
+                "obligated_amount": 635102134.36,
+                "gross_outlay_amount": 1412031467.49
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2013/2013-1004-000",
+                "obligated_amount": 105437.07,
+                "gross_outlay_amount": 1070807.0
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2023/2023-1004-000",
+                "obligated_amount": 97837.6,
+                "gross_outlay_amount": 86964.85
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2019/2023-1004-000",
+                "obligated_amount": 84392.38,
+                "gross_outlay_amount": 5557586.77
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2012/2012-1004-000",
+                "obligated_amount": 37981.45,
+                "gross_outlay_amount": 894769.46
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2014/2014-1004-000",
+                "obligated_amount": 36189.0,
+                "gross_outlay_amount": 44517.46
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2022/2022-1004-000",
+                "obligated_amount": 33189.27,
+                "gross_outlay_amount": 840899.84
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2021/2021-1004-000",
+                "obligated_amount": 6698.69,
+                "gross_outlay_amount": 1090504.59
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2011/2011-1004-000",
+                "obligated_amount": 5254.95,
+                "gross_outlay_amount": 337015.43
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2020/2020-1004-000",
+                "obligated_amount": 3979.91,
+                "gross_outlay_amount": 772783.59
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2018/2018-1004-000",
+                "obligated_amount": 3133.0,
+                "gross_outlay_amount": 14071.11
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2010/2010-1004-000",
+                "obligated_amount": 2711.96,
+                "gross_outlay_amount": 505245.98
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2019/2019-1004-000",
+                "obligated_amount": 931.58,
+                "gross_outlay_amount": 112854.08
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2017/2017-1004-000",
+                "obligated_amount": 894.4,
+                "gross_outlay_amount": 33988.25
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2005/2005-1004-000",
+                "obligated_amount": 762.47,
+                "gross_outlay_amount": 293056.4
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2006/2006-1004-000",
+                "obligated_amount": 22.89,
+                "gross_outlay_amount": 195272.89
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2003/2003-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 131614.82
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2004/2004-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 510675.2
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2007/2007-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 61348.0
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2008/2008-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 0.0
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service",
+                "code": "012-2009/2009-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 493583.68
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2016/2016-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 117.93
+            },
+            {
+                "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+                "code": "012-2020/2021-1004-000",
+                "obligated_amount": 0.0,
+                "gross_outlay_amount": 394115.07
+            }
+        ],
+        "obligated_amount": 635521550.98,
+        "gross_outlay_amount": 1425473259.89
+    }
+]

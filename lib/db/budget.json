@@ -1,0 +1,150 @@
+[
+  {
+      "name": "Income Security",
+      "children": [
+          {
+              "name": "Food and nutrition assistance",
+              "obligated_amount": 77617815365.57,
+              "gross_outlay_amount": 68339810002.85
+          },
+          {
+              "name": "Housing assistance",
+              "obligated_amount": 23039869.44,
+              "gross_outlay_amount": 480325605.59
+          },
+          {
+              "name": "Federal employee retirement and disability",
+              "obligated_amount": 0.0,
+              "gross_outlay_amount": 800902.51
+          }
+      ],
+      "obligated_amount": 77640855235.01,
+      "gross_outlay_amount": 68820936510.95
+  },
+  {
+      "name": "Agriculture",
+      "children": [
+          {
+              "name": "Farm income stabilization",
+              "obligated_amount": 34714611757.51,
+              "gross_outlay_amount": 23632490112.85
+          },
+          {
+              "name": "Agricultural research and services",
+              "obligated_amount": 5190915439.4,
+              "gross_outlay_amount": 4019944308.23
+          }
+      ],
+      "obligated_amount": 39905527196.91,
+      "gross_outlay_amount": 27652434421.08
+  },
+  {
+      "name": "Natural Resources and Environment",
+      "children": [
+          {
+              "name": "Conservation and land management",
+              "obligated_amount": 3256309206.02,
+              "gross_outlay_amount": 4700251849.51
+          },
+          {
+              "name": "Water resources",
+              "obligated_amount": 75148988.75,
+              "gross_outlay_amount": 114586774.64
+          },
+          {
+              "name": "Recreational resources",
+              "obligated_amount": 21420323.53,
+              "gross_outlay_amount": 24759380.85
+          },
+          {
+              "name": "Other natural resources",
+              "obligated_amount": 177842.73,
+              "gross_outlay_amount": 806622.54
+          }
+      ],
+      "obligated_amount": 3353056361.03,
+      "gross_outlay_amount": 4840404627.54
+  },
+  {
+      "name": "International Affairs",
+      "children": [
+          {
+              "name": "International development and humanitarian assistance",
+              "obligated_amount": 2373924596.71,
+              "gross_outlay_amount": 1307299335.46
+          }
+      ],
+      "obligated_amount": 2373924596.71,
+      "gross_outlay_amount": 1307299335.46
+  },
+  {
+      "name": "Community and Regional Development",
+      "children": [
+          {
+              "name": "Area and regional development",
+              "obligated_amount": 560845407.28,
+              "gross_outlay_amount": 714105748.58
+          },
+          {
+              "name": "Disaster relief and insurance",
+              "obligated_amount": 380321856.56,
+              "gross_outlay_amount": 44230426.42
+          },
+          {
+              "name": "Community development",
+              "obligated_amount": 5744182.53,
+              "gross_outlay_amount": 16676121.27
+          }
+      ],
+      "obligated_amount": 946911446.37,
+      "gross_outlay_amount": 775012296.27
+  },
+  {
+      "name": "Health",
+      "children": [
+          {
+              "name": "Consumer and occupational health and safety",
+              "obligated_amount": 558901360.93,
+              "gross_outlay_amount": 447222778.18
+          }
+      ],
+      "obligated_amount": 558901360.93,
+      "gross_outlay_amount": 447222778.18
+  },
+  {
+      "name": "Energy",
+      "children": [
+          {
+              "name": "Energy supply",
+              "obligated_amount": 216603056.21,
+              "gross_outlay_amount": 217826534.46
+          }
+      ],
+      "obligated_amount": 216603056.21,
+      "gross_outlay_amount": 217826534.46
+  },
+  {
+      "name": "Commerce and Housing Credit",
+      "children": [
+          {
+              "name": "Mortgage credit",
+              "obligated_amount": 169470866.52,
+              "gross_outlay_amount": 162348314.59
+          }
+      ],
+      "obligated_amount": 169470866.52,
+      "gross_outlay_amount": 162348314.59
+  },
+  {
+      "name": "General Government",
+      "children": [
+          {
+              "name": "General purpose fiscal assistance",
+              "obligated_amount": 1076570.1,
+              "gross_outlay_amount": 5539992.21
+          }
+      ],
+      "obligated_amount": 1076570.1,
+      "gross_outlay_amount": 5539992.21
+  }
+]

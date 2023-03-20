@@ -1,0 +1,72 @@
+[
+    {
+        "code": "3",
+        "public_law": "Emergency P.L. 117-103",
+        "title": "Consolidated Appropriations Act, 2022",
+        "urls": "https://www.congress.gov/117/bills/hr2471/BILLS-117hr2471enr.pdf",
+        "disaster": null
+    },
+    {
+        "code": "6",
+        "public_law": "Emergency P.L. 117-128",
+        "title": "Additional Ukraine Supplemental Appropriations Act, 2022",
+        "urls": "https://www.congress.gov/bill/117th-congress/house-bill/7691/text",
+        "disaster": null
+    },
+    {
+        "code": "7",
+        "public_law": "Emergency P.L. 117-159",
+        "title": "Bipartisan Safer Communities Act, 2022",
+        "urls": "https://www.congress.gov/117/bills/s2938/BILLS-117s2938enr.pdf",
+        "disaster": null
+    },
+    {
+        "code": "C",
+        "public_law": "Emergency P.L. 115-123",
+        "title": "Bipartisan Budget Act of 2018",
+        "urls": "https://www.congress.gov/115/plaws/publ123/PLAW-115publ123.htm",
+        "disaster": null
+    },
+    {
+        "code": "E",
+        "public_law": "Emergency P.L. 116-20",
+        "title": "Additional Supplemental Appropriations for Disaster Relief Act, 2019",
+        "urls": "https://www.congress.gov/116/plaws/publ20/PLAW-116publ20.pdf",
+        "disaster": null
+    },
+    {
+        "code": "F",
+        "public_law": "Emergency P.L. 116-26",
+        "title": "EMERGENCY SUPPLEMENTAL APPROPRIATIONS FOR HUMANITARIAN ASSISTANCE AND SECURITY AT THE SOUTHERN BORDER ACT, 2019",
+        "urls": "https://www.congress.gov/116/plaws/publ26/PLAW-116publ26.htm",
+        "disaster": null
+    },
+    {
+        "code": "N",
+        "public_law": "Emergency P.L. 116-136",
+        "title": "Coronavirus Aid, Relief, and Economic Security Act or the CARES Act",
+        "urls": "https://www.congress.gov/116/bills/hr748/BILLS-116hr748enr.pdf",
+        "disaster": "covid_19"
+    },
+    {
+        "code": "Q",
+        "public_law": "Excluded from tracking (uses non-emergency/non-disaster designated appropriations)",
+        "title": null,
+        "urls": null,
+        "disaster": null
+    },
+    {
+        "code": "R",
+        "public_law": "Emergency P.L. 116-260",
+        "title": "Consolidated Appropriations Act, 2021",
+        "urls": "https://www.congress.gov/116/bills/hr133/BILLS-116hr133enr.pdf",
+        "disaster": null
+    },
+    {
+        "code": "X",
+        "public_law": "Emergency P.L. 117-43",
+        "title": "Extending Government Funding and Delivering Emergency Assistance Act",
+        "urls": "https://www.congress.gov/117/plaws/publ43/PLAW-117publ43.pdf",
+        "disaster": null
+    }
+]

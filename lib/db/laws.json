@@ -1,0 +1,65 @@
+[
+  {
+      "code": "2",
+      "public_law": "Emergency P.L. 117-70",
+      "title": "Further Extending Government Funding Act",
+      "urls": "https://www.congress.gov/117/plaws/publ70/PLAW-117publ70.pdf",
+      "disaster": null
+  },
+  {
+      "code": "3",
+      "public_law": "Emergency P.L. 117-103",
+      "title": "Consolidated Appropriations Act, 2022",
+      "urls": "https://www.congress.gov/117/bills/hr2471/BILLS-117hr2471enr.pdf",
+      "disaster": null
+  },
+  {
+      "code": "L",
+      "public_law": "Emergency P.L. 116-123",
+      "title": "Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020",
+      "urls": "https://www.congress.gov/116/plaws/publ123/PLAW-116publ123.pdf",
+      "disaster": "covid_19"
+  },
+  {
+      "code": "N",
+      "public_law": "Emergency P.L. 116-136",
+      "title": "Coronavirus Aid, Relief, and Economic Security Act or the CARES Act",
+      "urls": "https://www.congress.gov/116/bills/hr748/BILLS-116hr748enr.pdf",
+      "disaster": "covid_19"
+  },
+  {
+      "code": "Q",
+      "public_law": "Excluded from tracking (uses non-emergency/non-disaster designated appropriations)",
+      "title": null,
+      "urls": null,
+      "disaster": null
+  },
+  {
+      "code": "R",
+      "public_law": "Emergency P.L. 116-260",
+      "title": "Consolidated Appropriations Act, 2021",
+      "urls": "https://www.congress.gov/116/bills/hr133/BILLS-116hr133enr.pdf",
+      "disaster": null
+  },
+  {
+      "code": "V",
+      "public_law": "Non-emergency P.L. 117-2",
+      "title": "American Rescue Plan Act of 2021",
+      "urls": "https://www.congress.gov/117/plaws/publ2/PLAW-117publ2.pdf",
+      "disaster": "covid_19"
+  },
+  {
+      "code": "W",
+      "public_law": "Emergency P.L. 117-31",
+      "title": "Emergency Security Supplemental Appropriations Act, 2021",
+      "urls": "https://www.congress.gov/117/plaws/publ31/PLAW-117publ31.pdf",
+      "disaster": null
+  },
+  {
+      "code": "X",
+      "public_law": "Emergency P.L. 117-43",
+      "title": "Extending Government Funding and Delivering Emergency Assistance Act",
+      "urls": "https://www.congress.gov/117/plaws/publ43/PLAW-117publ43.pdf",
+      "disaster": null
+  }
+]
