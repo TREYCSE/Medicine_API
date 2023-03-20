@@ -53,7 +53,7 @@ HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>
         "gross_outlay_amount": 1336400513.72
     },
     
-        //SAMPLE DATA from US.GOV on the statebills according to code
+    //SAMPLE DATA from US.GOV on the statebills according to code
             {
         "code": "3",
         "public_law": "Emergency P.L. 117-103",
