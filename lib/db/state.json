@@ -1,5 +1,12 @@
 [
     {
+        "code": "2",
+        "public_law": "Emergency P.L. 117-70",
+        "title": "Further Extending Government Funding Act",
+        "urls": "https://www.congress.gov/117/plaws/publ70/PLAW-117publ70.pdf",
+        "disaster": null
+    },
+    {
         "code": "3",
         "public_law": "Emergency P.L. 117-103",
         "title": "Consolidated Appropriations Act, 2022",
@@ -7,39 +14,11 @@
         "disaster": null
     },
     {
-        "code": "6",
-        "public_law": "Emergency P.L. 117-128",
-        "title": "Additional Ukraine Supplemental Appropriations Act, 2022",
-        "urls": "https://www.congress.gov/bill/117th-congress/house-bill/7691/text",
-        "disaster": null
-    },
-    {
-        "code": "7",
-        "public_law": "Emergency P.L. 117-159",
-        "title": "Bipartisan Safer Communities Act, 2022",
-        "urls": "https://www.congress.gov/117/bills/s2938/BILLS-117s2938enr.pdf",
-        "disaster": null
-    },
-    {
-        "code": "C",
-        "public_law": "Emergency P.L. 115-123",
-        "title": "Bipartisan Budget Act of 2018",
-        "urls": "https://www.congress.gov/115/plaws/publ123/PLAW-115publ123.htm",
-        "disaster": null
-    },
-    {
-        "code": "E",
-        "public_law": "Emergency P.L. 116-20",
-        "title": "Additional Supplemental Appropriations for Disaster Relief Act, 2019",
-        "urls": "https://www.congress.gov/116/plaws/publ20/PLAW-116publ20.pdf",
-        "disaster": null
-    },
-    {
-        "code": "F",
-        "public_law": "Emergency P.L. 116-26",
-        "title": "EMERGENCY SUPPLEMENTAL APPROPRIATIONS FOR HUMANITARIAN ASSISTANCE AND SECURITY AT THE SOUTHERN BORDER ACT, 2019",
-        "urls": "https://www.congress.gov/116/plaws/publ26/PLAW-116publ26.htm",
-        "disaster": null
+        "code": "L",
+        "public_law": "Emergency P.L. 116-123",
+        "title": "Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020",
+        "urls": "https://www.congress.gov/116/plaws/publ123/PLAW-116publ123.pdf",
+        "disaster": "covid_19"
     },
     {
         "code": "N",
@@ -60,6 +39,20 @@
         "public_law": "Emergency P.L. 116-260",
         "title": "Consolidated Appropriations Act, 2021",
         "urls": "https://www.congress.gov/116/bills/hr133/BILLS-116hr133enr.pdf",
+        "disaster": null
+    },
+    {
+        "code": "V",
+        "public_law": "Non-emergency P.L. 117-2",
+        "title": "American Rescue Plan Act of 2021",
+        "urls": "https://www.congress.gov/117/plaws/publ2/PLAW-117publ2.pdf",
+        "disaster": "covid_19"
+    },
+    {
+        "code": "W",
+        "public_law": "Emergency P.L. 117-31",
+        "title": "Emergency Security Supplemental Appropriations Act, 2021",
+        "urls": "https://www.congress.gov/117/plaws/publ31/PLAW-117publ31.pdf",
         "disaster": null
     },
     {
