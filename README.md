@@ -8,9 +8,9 @@ The database brings together information on important Departments that operate A
 - To make HTTP REQUESTS: GET /api/v2/agency/<TOPTIER_AGENCY_CODE>/Endpoint
 
 The agency codes are: 
-1. 015 - Department of Treasury Budget GET https://api.usaspending.gov/api/v2/agency/020/budget_function/
-2. 019 - Department of State Bills GET https://api.usaspending.gov/api/v2/agency/019/
-3. 020 - US Department of Agriculture Budget GET https://api.usaspending.gov/api/v2/agency/012/budget_function/
+1. 012 - US Department of Agriculture Budget GET https://api.usaspending.gov/api/v2/agency/012/budget_function/
+2. 015 - Department of Treasury Budget GET https://api.usaspending.gov/api/v2/agency/020/budget_function/
+3. 019 - Department of State Bills GET https://api.usaspending.gov/api/v2/agency/019/
 
 ### EXAMPLES OF CODE:
     //SAMPLE DATA from US.GOV on the US Department of Agrigiculture funds according to department
