@@ -1,12 +1,13 @@
-# REST_API DOCUMENTATION_
+# REST_API DOCUMENTATION
 
 #### PROJECT SUMMARY
 The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data. 
 DATABASE: USASPENDING.GOV
 
 #### GETTING STARTED						
-##### TECHNOLOGIES						
-MongoDB, Node.js, and Expres.js	w/axios to fetch & Postman - for validation of URLS	Swagger - API tester	Authentication of API - HTTP or OAuth	Heroku - DEPLOYING	
+##### TECHNOLOGIES USED					
+MongoDB, Node.js, and Expres.js	w/axios to fetch & Postman for validation of URLS	
+
 ### API FEATURES						
 FORMAT:	JSON "Content-Type:application/json"
 ### MAKING REQUESTS						
