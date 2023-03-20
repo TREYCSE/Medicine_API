@@ -1,9 +1,8 @@
-# REST_API DOCUMENTATION
+# REST_API DOCUMENTATION_
 
+#### PROJECT SUMMARY
+The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data. 
 DATABASE: USASPENDING.GOV
-JSON REST_API DOCUMENTATION PLAN	
-
-#### PROJECT SUMMARY: The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data.   
 
 #### GETTING STARTED						
 ##### TECHNOLOGIES						
