@@ -91,7 +91,7 @@ The agency codes are:
 #### File Tree:
 
             /lib
-                /db - the Databse
+                /db - the Database
                     /1 seed.js - Once models are defined, write a seed file that takes the data in the json and and seeds it into the MongoDB database.
                     /2 connection.js - connecting to the Mongoose Server
                     /4 budget.json - data for USA budget
