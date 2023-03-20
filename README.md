@@ -3,15 +3,15 @@
 #### PROJECT SUMMARY
 The ideal is to find a big json file of data that you can easily seed into a mongodb database, then build a REST API (with full CRUD) around that data. 
 DATABASE: USASPENDING.GOV
+					
+##### TECHNOLOGIES USED	: MongoDB, Node.js, and Expres.js w/axios to fetch & Postman for validation of URLS	
 
-#### GETTING STARTED						
-##### TECHNOLOGIES USED					
-MongoDB, Node.js, and Expres.js	w/axios to fetch & Postman for validation of URLS	
-
-### API FEATURES						
+### FEATURES						
 FORMAT:	JSON "Content-Type:application/json"
+
 ### MAKING REQUESTS						
 HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>
+
 ### EXAMPLES OF CODE:
     //SAMPLE DATA from US.GOV on the treasury budgets according to department
     {
