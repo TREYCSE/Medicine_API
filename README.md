@@ -115,8 +115,8 @@ The agency codes are:
 
 ###### CONTRIBUTION GUIDELINES
 Follow these Links:
-1) repository: ([https://git.generalassemb.ly/dc-wdi-node-express/api-project](https://github.com/TREYCSE/REST_API))
-2) Issue Tracker: ([https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=0](https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=1699520055))
+1) Repository (this one): ([https://git.generalassemb.ly/dc-wdi-node-express/api-project](https://github.com/TREYCSE/REST_API))
+2) Coding Tracker: (https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=1760079138](https://docs.google.com/spreadsheets/d/1h3rOtnA9zg10dT5oqklCbmK6vP9EDftnQArKYl7rBWg/edit#gid=1699520055))
 
 ###### Versioning - We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/PurpleBooth/a-good-readme-template/tags) ??
 ###### Authors **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
