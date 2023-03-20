@@ -17,7 +17,7 @@ The agency codes are:
 3. 020 - US Department of Agriculture Budget GET https://api.usaspending.gov/api/v2/agency/012/budget_function/
 
 ### EXAMPLES OF CODE:
-    //SAMPLE DATA from US.GOV on the treasury funds according to department
+    //SAMPLE DATA from US.GOV on the US Department of Agrigiculture funds according to department
     {
         "code": "012-1115",
         "name": "Wildland Fire Management, Forest Service, Agriculture",
@@ -57,29 +57,38 @@ The agency codes are:
         "gross_outlay_amount": 1336400513.72
     },
     
-    //SAMPLE DATA from US.GOV on the statebills according to code
-      	{
-        "code": "3",
-        "public_law": "Emergency P.L. 117-103",
-        "title": "Consolidated Appropriations Act, 2022",
-        "urls": "https://www.congress.gov/117/bills/hr2471/BILLS-117hr2471enr.pdf",
+    //SAMPLE DATA from US.GOV on US bills according to code
+    {
+        "code": "2",
+        "public_law": "Emergency P.L. 117-70",
+        "title": "Further Extending Government Funding Act",
+        "urls": "https://www.congress.gov/117/plaws/publ70/PLAW-117publ70.pdf",
         "disaster": null
-        },
+    },
 	
-    //SAMPLE DATA from US.GOV on the budget according to department
-	
-	  {
-      "name": "Health",
-      "children": [
-          {
-              "name": "Consumer and occupational health and safety",
-              "obligated_amount": 558901360.93,
-              "gross_outlay_amount": 447222778.18
-          }
-      ],
-      "obligated_amount": 558901360.93,
-      "gross_outlay_amount": 447222778.18
-  },
+    //SAMPLE DATA from US.GOV on the Treasury's budget according to department
+    {
+        "name": "General Government",
+        "children": [
+            {
+                "name": "Central fiscal operations",
+                "obligated_amount": 88457828196.26,
+                "gross_outlay_amount": 88972924553.06
+            },
+            {
+                "name": "General purpose fiscal assistance",
+                "obligated_amount": 1174701414.23,
+                "gross_outlay_amount": 2748505061.29
+            },
+            {
+                "name": "Other general government",
+                "obligated_amount": 402913369.06,
+                "gross_outlay_amount": 415897244.88
+            }
+        ],
+        "obligated_amount": 90035442979.55,
+        "gross_outlay_amount": 92137326859.23
+    },
 
 
 ## Coding w/in Building the API //with comments
