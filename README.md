@@ -4,8 +4,9 @@
 The database brings together information on important Departments that operate America such as laws, and budgets according to the respective departments. I aim to bring in more data and sort it to be more fluid and informational for the average reader.
 
 ### MAKING REQUESTS
-FORMAT:	JSON "Content-Type:application/json"
-To make HTTP REQUESTS: GET /api/v2/agency/<TOPTIER_AGENCY_CODE>/Endpoint
+- FORMAT:	JSON "Content-Type:application/json"
+- To make HTTP REQUESTS: GET /api/v2/agency/<TOPTIER_AGENCY_CODE>/Endpoint
+- 
 The agency codes are: 
 1. 015 - Department of Treasury Budget GET https://api.usaspending.gov/api/v2/agency/020/budget_function/
 2. 019 - Department of State Bills GET https://api.usaspending.gov/api/v2/agency/019/
