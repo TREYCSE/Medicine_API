@@ -10,10 +10,14 @@ DATABASE: USASPENDING.GOV
 FORMAT:	JSON "Content-Type:application/json"
 
 ### MAKING REQUESTS						
-HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>
+To make HTTP REQUESTS: GET /api/v2/agency/<TOPTIER_AGENCY_CODE>/Endpoint
+The agency codes are: 
+1. 015 - Department of Treasury Budget GET https://api.usaspending.gov/api/v2/agency/020/budget_function/
+2. 019 - Department of State Bills GET https://api.usaspending.gov/api/v2/agency/019/
+3. 020 - US Department of Agriculture Budget GET https://api.usaspending.gov/api/v2/agency/012/budget_function/
 
 ### EXAMPLES OF CODE:
-    //SAMPLE DATA from US.GOV on the treasury budgets according to department
+    //SAMPLE DATA from US.GOV on the treasury funds according to department
     {
         "code": "012-1115",
         "name": "Wildland Fire Management, Forest Service, Agriculture",
@@ -54,13 +58,28 @@ HTTP REQUESTS	GET	/api/v2/agency/<TOPTIER_AGENCY_CODE>
     },
     
     //SAMPLE DATA from US.GOV on the statebills according to code
-            {
+      	{
         "code": "3",
         "public_law": "Emergency P.L. 117-103",
         "title": "Consolidated Appropriations Act, 2022",
         "urls": "https://www.congress.gov/117/bills/hr2471/BILLS-117hr2471enr.pdf",
         "disaster": null
         },
+	
+    //SAMPLE DATA from US.GOV on the budget according to department
+	
+	  {
+      "name": "Health",
+      "children": [
+          {
+              "name": "Consumer and occupational health and safety",
+              "obligated_amount": 558901360.93,
+              "gross_outlay_amount": 447222778.18
+          }
+      ],
+      "obligated_amount": 558901360.93,
+      "gross_outlay_amount": 447222778.18
+  },
 
 
 ## Coding w/in Building the API //with comments
